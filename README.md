@@ -1,0 +1,1 @@
+This project entailed the redesign, extension, implementation, bulk loading, and optimization of an Oracle SQL database that had a flawed schema and corrupt data. Python/Spyder and Oracle SQL Developer were the primary tools.
